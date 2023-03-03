@@ -5,9 +5,10 @@ PropertyIQ is a web application that organises and makes accessible relevant mar
 
 1) Create Python virtual environment in VS Code 
 2) Start virtual environment
-3) Install dependencies
+3) Install dependencies & start server
 ```
 pip install -r requirements.txt
+python manage.py runserver
 ```
 
 ## Super-user for Django-admin
